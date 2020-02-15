@@ -1,0 +1,21 @@
+{
+  "name": "react_for_jonathan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
+    "babel-plugin-styled-components": "^1.10.7",
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  }
+}
